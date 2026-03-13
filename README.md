@@ -1,4 +1,4 @@
-📁 Project 1: Investment Banking & M&A Analysis (Best Buy)
+📁 Investment Banking & M&A Analysis (Best Buy)
 Overview
 
 This project simulates a buy-side Mergers & Acquisitions (M&A) analysis where an advisory team evaluates Best Buy Co., Inc. as a potential acquisition target.
@@ -91,7 +91,7 @@ A key strategic insight from the analysis is that Best Buy is transitioning from
 "Financial Data Interpretation",
 "Executive Communication"
 
-📁 Project 2: Financial Analysis & Risk Monitoring (Banking / FP&A)
+📁 Financial Analysis & Risk Monitoring (Banking / FP&A)
 Overview
 
 This project simulates the role of a Financial Planning and Analysis (FP&A) analyst working at a global bank.
