@@ -2,9 +2,7 @@
 Overview
 
 This project simulates a buy-side Mergers & Acquisitions (M&A) analysis where an advisory team evaluates Best Buy Co., Inc. as a potential acquisition target.
-
 The analysis follows a typical investment banking workflow including company profiling, financial modeling, comparable company valuation, and strategic analysis.
-
 The objective is to help senior leadership determine whether Best Buy represents an attractive acquisition opportunity and to support strategic acquisition decision-making.
 
 🎯 Objectives
